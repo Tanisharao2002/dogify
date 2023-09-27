@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/dogify/static/css/main.b5478031.css",
+    "main.css": "/dogify/static/css/main.624596da.css",
     "main.js": "/dogify/static/js/main.a29a7dd4.js",
     "static/js/787.cee4a202.chunk.js": "/dogify/static/js/787.cee4a202.chunk.js",
     "static/media/dog.jpg": "/dogify/static/media/dog.a721f1503208a31aef63.jpg",
     "static/media/down-arrow.gif": "/dogify/static/media/down-arrow.1b3884ea3fcddaf039a3.gif",
     "index.html": "/dogify/index.html",
-    "main.b5478031.css.map": "/dogify/static/css/main.b5478031.css.map",
+    "main.624596da.css.map": "/dogify/static/css/main.624596da.css.map",
     "main.a29a7dd4.js.map": "/dogify/static/js/main.a29a7dd4.js.map",
     "787.cee4a202.chunk.js.map": "/dogify/static/js/787.cee4a202.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b5478031.css",
+    "static/css/main.624596da.css",
     "static/js/main.a29a7dd4.js"
   ]
 }
